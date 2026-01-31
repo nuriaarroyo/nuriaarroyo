@@ -12,6 +12,8 @@
 * **Tools:** Git, Docker, AWS, Google Cloud, VS Code
 * **Workflow:** IBM Data Science Professional Framework
 
+*https://github-readme-stats.vercel.app/api/top-langs/?username=nuriaarroyo&layout=compact
+
 ### Featured Repositories
 * [Portfolio Optimization Thesis](#link-to-repo)
 * [Audio Hackathon - Baby Cry Classifier](#link-to-repo)
